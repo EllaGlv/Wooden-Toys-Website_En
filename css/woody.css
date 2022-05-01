@@ -1,0 +1,77 @@
+
+/* Text Colors */
+
+.text-primary {
+  color: #EF7433 !important;
+}
+
+a:link {
+  color: #EF7433;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #EF7433;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+/* Title Section */
+
+.title-woody {
+  margin-top: 38rem!important;
+  z-index: 1;
+}
+
+/* Catalog section */
+
+.container-img-woody {
+  position: relative;
+
+}
+
+.img-woody {
+text-align: center;
+width: 100%
+}
+
+.row-padding {
+  padding: auto;
+}
+
+.item-names {
+	text-align: center;
+	padding-bottom: 0.3rem;
+	padding-top: 1.5rem;
+}
+
+.wooden-border {
+	border-color: #EF7433 !important;
+}
+
+.work-container.work-grid:hover img {
+  transform: none;
+}
+
+/* AboutUs section */
+
+.section-partner {
+  padding: 0px 0px 60px 0px;
+}
+
+/* Contacts section */
+
+.aboutus-instagram {
+  text-align: right;
+  padding-right: 10px;
+}
